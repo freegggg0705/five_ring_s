@@ -1,9 +1,7 @@
 Yes
 https://digitalhumanities.hkust.edu.hk/tutorials/how-to-host-your-website-on-github-page/
 
-###
-
-If your HTML file is named index.html, you can access it directly using the URL:
+###If your HTML file is named index.html, you can access it directly using the URL:
 
 
 https://"your github username".github.io/"repository name"/
@@ -13,7 +11,7 @@ For example, if your HTML file is named hello123.html, the URL would be:
 https://"your github username".github.io/"repository name">/hello123.html
 
 
-###
+###Remember file name is case-sensitive, "I" vs "i" confused will give you 404
 
 
 
